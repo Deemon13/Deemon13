@@ -11,7 +11,7 @@
 
 ### <-- 🛠️ hardSkills & stack -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,svg,sass,styledcomponents,emotion,vite,webpack,git,github,npm,vscode,figma&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,svg,sass,styledcomponents,emotion,vite,webpack,git,github,npm,vscode,figma&perline=20)](https://skillicons.dev)
 
 ### <-- 📊 stats -->
 
