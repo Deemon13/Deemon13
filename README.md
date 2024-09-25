@@ -1,16 +1,22 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h1>👋 Hi there, I'm Dmitriy!</h1>
+    <h3 align="left">beginner frontend developer from the small atom-city</h3>
+</div>
 
-<!--
-**Deemon13/Deemon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <-- 😉 aboutMe -->
 
-Here are some ideas to get you started:
+- 😎 I'm a beginner frontend developer
+- 🐇 & I want to know how deep the rabbit hole is
+- 🤯 I'm looking for commercial experience, they say you can't get anywhere without it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <-- 🛠️ hardSkills & stack -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,svg,sass,styledcomponents,emotion,vite,webpack,git,github,npm,vscode,figma&perline=20)](https://skillicons.dev)
+
+### <-- 📊 stats -->
+
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deemon13&theme=github_dark" alt="summary" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deemon13&theme=github_dark" alt="summary-repo" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deemon13&theme=github_dark" alt="summary-commit" />
+</div>
